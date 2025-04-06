@@ -1,23 +1,29 @@
-# ZombieGame - A Simple Java Zombie Shooting Game
+# 🧟 ZombieGame – Java Shooting Game
 
-## Overview
-ZombieGame is a fun, interactive Java-based game where players test their reflexes by shooting zombies before they escape. The game keeps track of your hits and misses, challenging you to improve your score with each playthrough.
+A fun, reflex-based zombie shooting game made as part of my Computer Science studies 👨‍💻. Click zombies before they escape and rack up your score! 🎯
 
-![Game Screenshot](https://github.com/qualv13/ZombieGame/blob/master/ingame.png)
+<img src="https://github.com/qualv13/ZombieGame/blob/master/ingame.png" width="300" height="250" />
 
-## Features
-- Simple and intuitive gameplay
-- Score tracking (zombies hit vs escaped)
-- Increasing difficulty as you progress
-- Lightweight Java implementation
+## 🎮 Features
 
-## How to Play
-1. Run the game executable or Java file
-2. Click on zombies as they appear on screen
-3. Try to hit as many zombies as possible before they escape
-4. Your score is displayed at the end of each round
+- Intuitive click-to-shoot mechanics 🖱️
+- Score tracking: zombies hit 💥 vs escaped 🧟
+- Difficulty increases over time ⏱️
+- Lightweight Java-based implementation ☕
 
-## Installation
+## 🚀 How to Play
+
+1. Compile or run the game file
+2. Click zombies as they appear
+3. Avoid misses – your score depends on it!
+4. The game ends when too many zombies escape
+
+## 🛠 Requirements
+
+- Java 8 or higher (JRE or JDK)
+- Works best in IntelliJ or any Java IDE
+
+## 🧩 Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/qualv13/ZombieGame.git
@@ -31,9 +37,6 @@ ZombieGame is a fun, interactive Java-based game where players test their reflex
    javac ZombieGame.java
     java ZombieGame
    ```
-## Requirements
-- Java Runtime Environment (JRE) 8 or later
-- (Optional) JDK 8+ if you need to compile from source
 
 ## Contribution
 Contributions are welcome! Here's how you can help:
